@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-/*caca-palavras emm linguagem c
-  autor: Beatriz Lima
+/*autor: Beatriz Lima
   ano: 2021
   disciplína: AlgProg2*/
 
