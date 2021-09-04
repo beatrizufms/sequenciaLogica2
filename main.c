@@ -1,8 +1,13 @@
 #include <stdio.h>
 
+/*caca-palavras emm linguagem c
+  autor: Beatriz Lima
+  ano: 2021
+  disciplÃ­na: AlgProg2*/
+
 /*Escreva um programa que leia dois valores X e Y.
-A seguir, mostre uma sequência de 1 até Y,
-passando para a próxima linha a cada X números.*/
+A seguir, mostre uma sequÃªncia de 1 atÃ© Y,
+passando para a prÃ³xima linha a cada X nÃºmeros.*/
 int main(void){
     int n, x1;
     int cont = 1, aux = 1;
